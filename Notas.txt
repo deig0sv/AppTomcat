@@ -7,3 +7,6 @@ http://localhost:8080/PortalCatastro
 
 PortalCatastroWS
 http://localhost:8080/PortalCatastroWS/services/CatastroWSSOAP?wsdl
+
+
+........................................................................................................
